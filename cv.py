@@ -1,5 +1,5 @@
 import streamlit as st
-
+import yfinance as yf
 st.markdown("# Currículum Vitae")
 st.markdown("## Andres Manuel Taddei Hurtado")
 
